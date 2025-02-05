@@ -1,2 +1,2 @@
 # livsensor
-this is a sendor fault prediction project
+this is a sensor fault prediction project
