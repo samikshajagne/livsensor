@@ -1,0 +1,4 @@
+setuptools~=72.1.0
+pymongo==4.2.0
+
+-e .   #editable mode
